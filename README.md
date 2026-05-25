@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Federated%20Learning/nvflare_fedavg_vs_fedprox_non_iid_cifar10_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/25/step-by-step-guide-to-build-and-compare-fedavg-and-fedprox-federated-learning-on-non-iid-cifar-10-with-nvidia-flare/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Federated%20Learning/nvflare_fedavg_vs_fedprox_non_iid_cifar10_Marktechpost.ipynb)
+
 ▶ A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/shap_explainability_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/)
 
 ▶ A Coding Implementation to Master GPU Computing with CuPy, Custom CUDA Kernels, Streams, Sparse Matrices, and Profiling [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/cupy_gpu_computing_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/14/a-coding-implementation-to-master-gpu-computing-with-cupy-custom-cuda-kernels-streams-sparse-matrices-and-profiling/)
