@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/timecopilot_forecasting_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/)
+
 ▶ How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/xformers_memory_efficient_transformers_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/)
 
 ▶ How to Build a Parsing Pipeline with Docling Parse for Layout-Aware Document Intelligence [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/docling_parse_layout_aware_pdf_intelligence_colab_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/16/how-to-build-a-parsing-pipeline-with-docling-parse-for-layout-aware-document-intelligence/)
