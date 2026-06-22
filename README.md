@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Data%20Analysis/prefab_reactive_dashboard_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/)
+
 ▶ How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Data%20Science/timecopilot_forecasting_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/)
 
 ▶ How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/xformers_memory_efficient_transformers_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/)
