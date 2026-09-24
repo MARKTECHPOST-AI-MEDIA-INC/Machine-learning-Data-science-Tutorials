@@ -1,6 +1,8 @@
 # Machine-learning-Data-science-Tutorials
 List of Machine Learning and Data Science Projects with Full Implementation codes
 
+▶ A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/typesafe_jev_system_one_typed_decisions_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/)
+
 ▶ End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, Anomaly Detection, and Scalable Colab Deployment
  [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/TimesFM_2_5_Advanced_Forecasting_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/)
 
